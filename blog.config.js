@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'one more thing',
+  title: 'Go7hic',
   author: 'Go7hic',
-  email: 'i@craigary.net',
+  email: 'gtfx0209@gmail.com',
   link: 'http://dyy.im',
-  description: 'This gonna be an awesome website.',
+  description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
