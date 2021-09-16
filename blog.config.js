@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Go7hic',
   email: 'gtfx0209@gmail.com',
   link: 'https://dyy.im',
-  description: 'code 4 life',
+  description: 'Be Curious. Read Widely. Try New Things',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
