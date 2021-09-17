@@ -5,6 +5,7 @@ const Vercel = () => {
       target="_blank"
       rel="noreferrer"
       aria-label="Vercel"
+      style={{ display: "none"}}
     >
       <svg
         width="135"
