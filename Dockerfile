@@ -9,7 +9,7 @@ COPY package.json yarn.lock ./
 RUN yarn install --frozen-lockfile
 
 # Rebuild the source code only when needed
-FROM node:14-alpine AS builder
+FROM node:18-alpine AS builder
 ARG NOTION_PAGE_ID
 WORKDIR /app
 COPY . .
