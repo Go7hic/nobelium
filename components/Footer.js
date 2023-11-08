@@ -15,7 +15,7 @@ const Footer = ({ fullWidth }) => {
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
-            <span style={{ marginLeft: '24px' }}>powered by notion</span>
+            <span style={{ marginLeft: '24px' }}>Code is Poetry</span>
           </p>
          <Vercel />
         </div>
